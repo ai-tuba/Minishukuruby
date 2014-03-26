@@ -1,0 +1,1 @@
+puts("foo\nbar\nbaz")
