@@ -20,5 +20,4 @@
 a = false
 b = true
 p !a && b
-p !a && b
 p !(a && b)
