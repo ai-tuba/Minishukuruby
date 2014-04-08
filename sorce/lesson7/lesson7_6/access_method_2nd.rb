@@ -20,7 +20,7 @@ end
 greeting = Greeting.new
 greeting.hello
 greeting.bye = 42
-greeting.pardon = "sprry"
+greeting.pardon = "sorry"
 p greeting.pardon
 
 
