@@ -8,3 +8,5 @@ p @foo
 p @foo.nil?
 @foo = "foo"
 p @foo.nil?
+
+# nilであった場合はtrueを返し、nilでない場合はfalseを返しています。
