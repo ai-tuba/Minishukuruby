@@ -25,7 +25,3 @@ end
 bob = Person.new
 # この形式で値を変更できない
 bob.result = "Bob"
-#NoMethodError: undefined method 'result=' for #<Person:0x7bdb520>
-#	from (irb):11
-#	from :0
-
