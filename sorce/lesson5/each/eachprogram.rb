@@ -11,3 +11,12 @@
    p output.downcase
    p output
 end
+
+n = 0
+ary = ["Ruby","HTML","JabaScript","Rails"]
+while n < ary.length do
+ p ary[n].downcase
+ p ary[n]
+ 
+ n += 1
+end

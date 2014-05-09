@@ -5,4 +5,4 @@ a = false
 b = true
 c = nil
 p (not a and b)
-p a or b and c
+p a || b && c

@@ -2,9 +2,9 @@
 
 ary = [[1, 2, 3],
        [4, 5, 6],
-       [6, 7, 8]]
-ary.each do |a, b, c|
-  p a, b, c
+       [7, 8, 9]]
+ary.each do |a, b |
+  p a, b[0] 
 end
 
 
