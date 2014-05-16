@@ -1,4 +1,6 @@
-#
+#class <クラス名>
+#  <クラスの定義>
+#end
 
 class HelloRuby
   def hello
