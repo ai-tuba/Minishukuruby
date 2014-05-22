@@ -22,6 +22,6 @@ class Person
 		@name = value
 	end
 end
-bob = Person.new
+bob = Person.new(24)
 # この形式で値を変更できない
 bob.result = "Bob"
